@@ -1,0 +1,1 @@
+{"name":"casino-bonus","version":"1.0.0","description":"Compare crypto casino bonuses and promotions","tools":["search_bonuses","compare_casinos","get_bonus_details"],"category":"gaming","requires_api_key":false,"template_id":"casino"}
